@@ -10,7 +10,7 @@ const Hero = () => {
         <section className={`text-gray-600 min-h-screen ${styles.bg} body-font`}>
             <div className="container mx-auto flex px-5 py-20  md:flex-row flex-col items-center">
                 <div className="lg:flex-grow md:w-1/2 lg:pr-20 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-                    <h1 className="title-font text-4xl sm:text-6xl md:text-5xl lg:text-7xl mb-4 font-bold text-gray-300"><span className=" font-extrabold bg-gradient-to-r from-[#FFC107] to-brand-accent bg-clip-text text-transparent">The Best Quality</span> Sports Equipment</h1>
+                    <h1 className="title-font text-4xl sm:text-6xl md:text-5xl lg:text-7xl mb-4 font-bold text-gray-200"><span className=" font-extrabold bg-gradient-to-r from-[#FFC107] to-brand-accent bg-clip-text text-transparent">The Best Quality</span> Sports Equipment</h1>
                     <p className="mb-8 text-white leading-relaxed">Discover high-quality sports equipment built for athletes of every level.
                         From training essentials to pro gear, we’ve got everything you need.</p>
                     <div className="flex flex-col sm:flex-row gap-4 mb-8 items-center w-full sm:w-auto">
